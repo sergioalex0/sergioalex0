@@ -1,4 +1,4 @@
-## Olá, eu sou o Sérgio :)
+## Hi! :)
 
 - 🌱 Eu estou atualmente aprendendo html e css.
 <div align="center">
