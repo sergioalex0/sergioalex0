@@ -1,6 +1,6 @@
 ## Hi! :)
 
-- 🌱 Eu estou atualmente aprendendo html e css.
+- 🌱 Estou sempre em busca de aprendizado.
 <div align="center">
   <a href="https://github.com/sergioalex0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergioalex0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
